@@ -1,7 +1,7 @@
-# Alejandro Romero
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=220&section=header&text=Ale%20Bruce&fontSize=55&fontColor=A970FF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=220&section=header&text=Alejandro%20Romero&fontSize=55&fontColor=A970FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -26,22 +26,22 @@ I enjoy understanding how systems work, developing applications, identifying sec
 
 ---
 
-## 🔐 Cybersecurity
+##  Cybersecurity
 
 My main areas of interest include:
 
-- 🛡️ API Security
-- 🔎 Penetration Testing
-- 🌐 Web Application Security
-- 🧪 Ethical Hacking
-- 🐧 Linux
-- 🔥 Burp Suite
-- 📚 OWASP
-- 🔍 Security Testing
+-  API Security
+-  Penetration Testing
+-  Web Application Security
+-  Ethical Hacking
+-  Linux
+-  Burp Suite
+-  OWASP
+-  Security Testing
 
 ---
 
-## 💻 Technologies & Tools
+##  Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mysql,sqlite,firebase,git,github,linux,vscode" />
@@ -49,7 +49,7 @@ My main areas of interest include:
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,docker" />
@@ -61,27 +61,23 @@ My main areas of interest include:
 </p>
 
 <p align="center">
-  🔐 Cybersecurity &nbsp; • &nbsp;
-  🌐 API Security &nbsp; • &nbsp;
-  🛡️ Penetration Testing &nbsp; • &nbsp;
-  🔎 Ethical Hacking
+   - Cybersecurity &nbsp; • &nbsp;
+   - API Security &nbsp; • &nbsp;
+   - Penetration Testing &nbsp; • &nbsp;
+   - Ethical Hacking
 </p>
 
 ---
 
-## 🚀 Projects
-
-Here you will find my personal projects, software development projects, cybersecurity labs, and experiments.
-
-Some of the areas I work with include:
+##  Projects
 
 ```text
 ┌──────────────────────────────────────────┐
 │                                          │
-│  💻 Software Development                 │
-│  🔐 Cybersecurity                        │
-│  🌐 API Security                         │
-│  🛡️ Penetration Testing                  │
-│  🧪 Security Labs                        │
+│  - Software Development                 │
+│  - Cybersecurity                        │
+│  - API Security                         │
+│  - Penetration Testing                  │
+│  - Security Labs                        │
 │                                          │
 └──────────────────────────────────────────┘
