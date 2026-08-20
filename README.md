@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=750&lines=Systems+Engineer;Cybersecurity+Enthusiast;Ethical+Hacking+Learner;API+Security;Penetration+Testing;Web+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=750&lines=Systems+Engineer;Cybersecurity+Enthusiast;Ethical+Hacking+Learner;API+Security;Web+Developer" />
 </p>
 
 <p align="center">
@@ -74,10 +74,10 @@ My main areas of interest include:
 ```text
 ┌──────────────────────────────────────────┐
 │                                          │
-│  - Software Development                 │
-│  - Cybersecurity                        │
-│  - API Security                         │
-│  - Penetration Testing                  │
-│  - Security Labs                        │
+│  - Software Development                  │
+│  - Cybersecurity                         │
+│  - API Security                          │
+│  - Security Labs                         │
+│                                          │
 │                                          │
 └──────────────────────────────────────────┘
