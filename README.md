@@ -63,7 +63,6 @@ My main areas of interest include:
 <p align="center">
    - Cybersecurity &nbsp; • &nbsp;
    - API Security &nbsp; • &nbsp;
-   - Penetration Testing &nbsp; • &nbsp;
    - Ethical Hacking
 </p>
 
