@@ -20,7 +20,7 @@
 
 I'm a **Systems Engineer** passionate about technology, software development, and cybersecurity.
 
-I'm currently expanding my knowledge in **Cybersecurity, Ethical Hacking, API Security, and Penetration Testing**.
+I'm currently expanding my knowledge in **Cybersecurity, Ethical Hacking and API Security*.
 
 I enjoy understanding how systems work, developing applications, identifying security vulnerabilities, and learning how to build more secure technologies.
 
